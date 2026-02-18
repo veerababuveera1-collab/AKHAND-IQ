@@ -1,0 +1,29 @@
+# --- Core Framework & Web Mesh ---
+# High-speed API gateway for the Sovereign Node
+Flask==3.0.2
+Flask-Cors==4.0.0
+
+# --- Communication & AI Interfacing ---
+# Synchronous & Asynchronous interfacing with local Llama-3/Ollama
+requests==2.31.0
+urllib3==2.2.1
+aiohttp==3.9.3
+
+# --- Quantum-Resistant & Tactical Security ---
+# Provides SHA3 (Keccak) and HMAC-SHA512 for the Quantum Mantra tokens
+pycryptodome==3.20.0
+cryptography==42.0.5
+
+# --- Impact Visualization & Math ---
+# Processing global resonance data and coordinate mapping
+numpy==1.26.4
+pandas==2.2.1
+
+# --- Neural State Simulation & Hardware Reflex ---
+# Simulating sub-millisecond reflex times and memory management
+psutil==5.9.8
+
+# --- Deployment Infrastructure ---
+# For running the system in a production-grade air-gapped environment
+gunicorn==21.2.0
+python-dotenv==1.0.1
